@@ -10,5 +10,401 @@
     "descricao": "💛 Restaura a umidade e fortalece os fios com mel e óleos naturais.\n💆‍♀️ Para cabelos ressecados, quebradiços ou descoloridos.",
     "preco": 1540,
     "foto": "AgACAgUAAxkBAAIET2hY1Z-shC5oxA1WBK46kMlyS4btAALkwzEbiYnIVvJogHTmOFBaAQADAgADeQADNgQ"
+  },
+  "3": {
+    "nome": "& honey Deep Moist Hair Pack",
+    "descricao": "🧖‍♀️ Máscara nutritiva de hidratação profunda.\n💧 Ideal para tratamento de cabelos danificados ou sem vida.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIEbGhZGDBTVWBRU7zaVtRt1XaeX-YWAALaxDEbiYnIVr2pT7Yu5HR2AQADAgADeQADNgQ"
+  },
+  "4": {
+    "nome": "&honey Deep Moist Hair Oil",
+    "descricao": "🌟 Óleo capilar nutritivo com mel, argan e geleia real.\n💆‍♀️ Indicado para cabelos secos, danificados ou com pontas duplas.\n✨ Sela os fios, controla o frizz e dá brilho sem pesar.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIEdmhZGX-r2I_I_hdKzMVVeNn1zeBwAALfxDEbiYnIVnm1Q2h2bv3OAQADAgADeQADNgQ"
+  },
+  "5": {
+    "nome": "&honey Pixie Moist Silky Shampoo",
+    "descricao": "🌸 Fragrância floral frutada suave.\n💧 Indicado para cabelos normais a secos, com frizz ou opacos.\n✨ Limpa suavemente e dá brilho.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIEgGhZGtdxJkDdJC_kFMDv_Q2nM4E3AALjxDEbiYnIVmXJK1pZa4LZAQADAgADeQADNgQ"
+  },
+  "6": {
+    "nome": "&honey Pixie Moist Silky Condicionador",
+    "descricao": "🍯 Suaviza e hidrata os fios com leveza.\n💆‍♀️ Para cabelos finos, secos ou com frizz leve.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIEimhZIfsLlgfIN_jRkeKDnaguDsyLAAIBxTEbiYnIVqlsOxef97ihAQADAgADeQADNgQ"
+  },
+  "7": {
+    "nome": "&honey Pixie Moist Silky Hair Pack",
+    "descricao": "🛁 Tratamento pré-condicionador.\n💧 Indicado para cabelos ressecados ou desnutridos.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIElGhZIlGRxfhxHDlcz7xyfQ2UJU_bAAIDxTEbiYnIVpovMwzgdkK6AQADAgADeQADNgQ"
+  },
+  "8": {
+    "nome": "&honey Pixie Moist Silky Hair Oil",
+    "descricao": "🌟 Finalizador leve que protege contra o calor.\n💆‍♀️ Para todos os tipos, especialmente fios finos e com frizz.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIEnmhZIpRaTsPHcj_qi-ZPkvY1vkzEAAIExTEbiYnIVqdtQn59NMofAQADAgADeQADNgQ"
+  },
+  "9": {
+    "nome": "&honey Milky Precious EX Repair Shampoo",
+    "descricao": "🥛 Limpeza suave com colágeno de leite e mel.\n💧 Indicado para cabelos secos, quebradiços ou danificados por calor/química.\n✨ Hidrata sem pesar, deixando os fios macios e brilhantes.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIEqGhZI5b0-SBtmGD0Iydn2NQ71Fz9AAIGxTEbiYnIVlP6JuenOuD0AQADAgADeQADNgQ"
+  },
+  "10": {
+    "nome": "& honey Milky Precious EX Repair Condicionador",
+    "descricao": "🧴 Fórmula nutritiva que repara e fortalece.\n💆‍♀️ Ideal para fios fragilizados, sem brilho e com toque áspero.\n✨ Restaura a maciez e o aspecto saudável do cabelo.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIEsmhZI-NrF7RHpOxeS61WV1oiol9MAAIIxTEbiYnIVm73W60OMSztAQADAgADeQADNgQ"
+  },
+  "11": {
+    "nome": "& honey Milky Precious EX Repair Hair Pack",
+    "descricao": "🛁 Tratamento intensivo com colágeno de leite e mel.\n💆‍♀️ Indicado para cabelos extremamente danificados, opacos ou ressecados.\n✨ Recupera a maciez, hidrata profundamente e fortalece os fios.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIEvGhZJCqfXbHk-r3PmmB1h6s5r5lbAAIKxTEbiYnIVqEfXjVvE0ejAQADAgADeQADNgQ"
+  },
+  "12": {
+    "nome": "& honey Milky Precious EX Repair Hair Milk",
+    "descricao": "🥛 Hidratação leve com proteção térmica.\n💨 Use antes do secador ou chapinha.\n💧 Perfeito para cabelos ressecados, com pontas duplas ou que usam calor frequentemente.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIExmhZJG8Ce7-z-UkWEhiEthQ0Hqf0AAILxTEbiYnIVoNHnFu0mK-gAQADAgADeQADNgQ"
+  },
+  "13": {
+    "nome": "& honey Milky Precious EX Repair Hair Oil",
+    "descricao": "✨ Óleo leve com colágeno de leite, mel e óleo de argan.\n💆‍♀️ Indicado para cabelos secos, danificados ou com frizz.\n💨 Protege do calor, controla o volume e dá brilho sedoso sem pesar.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIE0GhZJLRoDVPN5X4tj8Y1ammS3RsKAAIMxTEbiYnIVu_RsPoawSXXAQADAgADeQADNgQ"
+  },
+  "14": {
+    "nome": "& honey Melty Moist Repair Shampoo",
+    "descricao": "🍓 Fragrância doce de frutas vermelhas com mel.\n🧴 Limpeza suave que hidrata desde a raiz.\n💆‍♀️ Indicado para cabelos com frizz, ondulados, rebeldes ou com volume.\n✨ Ajuda a deixar os fios mais lisos e disciplinados.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIE2mhZJQRnuqBfnBTm0kXbDBVahQFVAAIPxTEbiYnIVgkhJxrXmCgKAQADAgADeQADNgQ"
+  },
+  "15": {
+    "nome": "& honey Melty Moist Repair Condicionador",
+    "descricao": "💖 Fórmula cremosa com mel, óleo de rosa mosqueta e ingredientes suavizantes.\n💧 Ideal para cabelos difíceis de controlar, secos ou com pontas espigadas.\n✨ Deixa o cabelo mais alinhado, leve e macio.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIE5GhZJUHF1FlZ-bSSt7hf7s81nwjfAAISxTEbiYnIVhX2JY0-Sv9fAQADAgADeQADNgQ"
+  },
+  "16": {
+    "nome": "& honey Melty Moist Repair Hair Pack",
+    "descricao": "🛁 Tratamento intensivo para combater o frizz e hidratar profundamente.\n💆‍♀️ Indicado para cabelos ressecados, armados ou com textura áspera.\n✨ Devolve o brilho e a sedosidade aos fios.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIE7mhZJXs579IcB1KagK7kNO6cZ83ZAAITxTEbiYnIVgJEqHizELPWAQADAgADeQADNgQ"
+  },
+  "17": {
+    "nome": "& honey Melty Moist Repair Hair Oil",
+    "descricao": "🌟 Finalizador antifrizz com toque leve e cheirinho adocicado.\n💆‍♀️ Ideal para modelar, proteger do calor e dar acabamento suave.\n✨ Cabelos mais brilhantes, lisos e cheirosos o dia todo.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIE-GhZJbGiHJNaXojR1eLIGXKAfjjEAAIVxTEbiYnIVra6xFg4ukKjAQADAgADeQADNgQ"
+  },
+  "18": {
+    "nome": "& honey Color Control Repair Shampoo",
+    "descricao": "🧴 Fórmula suave que limpa sem desbotar.\n💆‍♀️ Indicado para cabelos tingidos, descoloridos ou com mechas.\n✨ Preserva a cor, hidrata e deixa os fios com brilho intenso.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIFAmhZJe6jY02f0zDzawHWbzR7yHoaAAIXxTEbiYnIVh3ff3IWfDeYAQADAgADeQADNgQ"
+  },
+  "19": {
+    "nome": "& honey Color Control Repair Condicionador",
+    "descricao": "🎨 Com mel, óleo de argan e ingredientes protetores da cor.\n💧 Ideal para cabelos coloridos que perderam brilho e maciez.\n✨ Deixa os fios mais sedosos, maleáveis e com a cor vibrante por mais tempo.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIFDGhZJibdot_OYrOyp7zsUPtmdarjAAIYxTEbiYnIVkuwg3JdDRZLAQADAgADeQADNgQ"
+  },
+  "20": {
+    "nome": "& honey Color Control Repair Hair Oil",
+    "descricao": "🌟 Finalizador com proteção térmica e UV.\n💆‍♀️ Perfeito para evitar o desbotamento e controlar o frizz.\n✨ Realça o brilho da cor, protege e perfuma o cabelo.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIFFmhZJl-_gpKCOQaUje5iWl-hDqlZAAIZxTEbiYnIVrTOBC56rP2qAQADAgADeQADNgQ"
+  },
+  "21": {
+    "nome": "🍯 Kit &honey Deep Moist × Jeonghan (Edição Limitada)",
+    "descricao": "🌼 Fragrância: Flower Honey\nInclui:\n🧴 Shampoo Step 1.0 (440ml)\n💛 Treatment Step 2.0 (445g)\n📸 Card exclusivo do Jeonghan incluso!\n\n💆‍♀️ Ideal para cabelos secos, danificados ou quimicamente tratados\n✨ Hidratação profunda com mel + óleo de argan\n💐 Fragrância floral suave e adocicada (flores + mel)",
+    "preco": 3080,
+    "foto": "AgACAgUAAxkBAAIFIGhZJs96cs6NBnJyGmoLAey98g4WAAIaxTEbiYnIVunfLNMs-jqwAQADAgADeQADNgQ"
+  },
+  "22": {
+    "nome": "🌹 Kit &honey Melty Moist Repair × Jeonghan (Edição Limitada)",
+    "descricao": "🌹 Fragrância: Rose Honey\nInclui:\n🧴 Shampoo Step 1.0 (440ml)\n💛 Treatment Step 2.0 (445g)\n📸 Card exclusivo do Jeonghan incluso!\n\n💆‍♀️ Indicado para cabelos com frizz, armados ou difíceis de controlar\n✨ Hidratação suave, controle de volume e maciez\n🌸 Aroma delicado de mel com toque de rosas",
+    "preco": 3080,
+    "foto": "AgACAgUAAxkBAAIFKmhZJy6Q0RTQqJXE3s23eAHbaQlZAAIgxTEbiYnIVk55gEosoISCAQADAgADeQADNgQ"
+  },
+  "23": {
+    "nome": "🌟 Kit Edição Limitada &honey × VT Cosmetics",
+    "descricao": "🍯 Deep Moist Shampoo (step 1.0) – 440ml\n💛 Deep Moist Treatment (condicionador – step 2.0) – 445g\n💆‍♀️ Para cabelos secos, danificados ou com química\n✨ Fórmula com mel + óleo de argan + extratos botânicos\n🌿 Contém CICA (Centella Asiática) para um toque calmante\n🍐 Fragrância leve e refrescante de mel com notas verdes\n\n🎁 Bônus:\n🧖‍♀️ 1x máscara facial VT Reedle S 300 (2 steps) para hidratar e renovar a pele\n💚 Colaboração exclusiva com design especial e edição limitada",
+    "preco": 3080,
+    "foto": "AgACAgUAAxkBAAIFNGhZJ83ko049-UUDa2Ieg_9ByaMLAAIhxTEbiYnIVmybO5pybNBtAQADAgADeQADNgQ"
+  },
+  "24": {
+    "nome": "Dr.Honey | Black Bee – Shampoo",
+    "descricao": "Limpeza suave com hidratação profunda 💧\nFórmula japonesa com mel preto, NMN encapsulado e exossomos, que trata desde o couro cabeludo até as pontas.\n\n🌿 Ideal para quem busca fios mais fortes, nutridos e com brilho natural!",
+    "preco": 1595,
+    "foto": "AgACAgUAAxkBAAIFPmhaZg2_jLFBi_0C4ta2z0Emy744AAIbxzEbgSnQVg7CbOM-xaioAQADAgADeQADNgQ"
+  },
+  "25": {
+    "nome": "Dr.Honey | Black Bee - Condicionador",
+    "descricao": "Desembaraço imediato e reparação intensa!\nCom NMN, exossomos e jalea real, esse condicionador sela as cutículas, fortalece os fios e devolve a maciez.\n\n💛 Para cabelos danificados, secos ou sem vida — resultado visível desde a primeira aplicação!",
+    "preco": 1595,
+    "foto": "AgACAgUAAxkBAAIFSGhaZoHFohRfOgIyhygiqX332Id9AAIexzEbgSnQVji48gbc6T75AQADAgADeQADNgQ"
+  },
+  "26": {
+    "nome": "Dr.Honey | Black Bee - Óleo Capilar",
+    "descricao": "Brilho de salão com toque leve e zero oleosidade!\nCom NMN, mel preto e CICA, esse óleo protege contra o calor, controla o frizz e nutre profundamente.\n\n🌬️ Pode ser usado antes da escova ou como finalizador diário.",
+    "preco": 1595,
+    "foto": "AgACAgUAAxkBAAIFUmhaZw5JEFDv-badavPGPF_XYn41AAIhxzEbgSnQVql2Bve-jhwJAQADAgADeQADNgQ"
+  },
+  "27": {
+    "nome": "Dr.Honey | Black Bee – Hair Pack Ultimate Repair",
+    "descricao": "⚡️ Reparação intensa em apenas 10 segundos!\nTratamento concentrado com 50 bilhões de exossomos + NMN encapsulado, que age profundamente para restaurar os fios danificados.\n\n🌿 Ideal para cabelos quebradiços, ressecados ou com química.\nUse após o shampoo, deixe agir por 10 segundos e enxágue.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIFXGhaZ_NCbmEh1zDkklXelQIuqusTAAImxzEbgSnQVlB7fCa3_67HAQADAgADeQADNgQ"
+  },
+  "28": {
+    "nome": "Dr.Honey – Liposome Shot Cleansing Booster",
+    "descricao": "💡 Etapa pré-shampoo para potencializar os resultados da linha!\nCom 100 bilhões de lipossomos regenerativos por dose, esse booster limpa suavemente o couro cabeludo, ativa a circulação e melhora a absorção dos nutrientes dos outros produtos.\n\n🧴 Use direto no couro cabeludo antes do shampoo.\nResultados visíveis com uso contínuo!",
+    "preco": 1320,
+    "foto": "AgACAgUAAxkBAAIFZmhaaMdEYh3GypG2-k40kDVk-mGfAAI4xzEbgSnQVmH4mlxRIxWcAQADAgADeQADNgQ"
+  },
+  "29": {
+    "nome": "Dr.Honey White Bee – Shampoo",
+    "descricao": "🧼 Limpeza suave com equilíbrio e brilho!\nCom 100 bilhões de lipossomos regenerativos + NMN + mel branco, esse shampoo remove impurezas enquanto hidrata e mantém o couro cabeludo saudável.\n\n🌸 Ideal para cabelos opacos, secos ou com frizz leve.",
+    "preco": 1595,
+    "foto": "AgACAgUAAxkBAAIFcGhaaanZpQmp34_xTrwW5tfIQLX7AAI5xzEbgSnQVh31-cbXOJ8BAQADAgADeQADNgQ"
+  },
+  "30": {
+    "nome": "Dr.Honey White Bee - Condicionador",
+    "descricao": "💛 Hidratação leve e brilho natural!\nCom NMN, lipossomos e mel branco, ajuda a restaurar a maciez dos fios, selando as pontas sem deixar oleoso.\n\n🌿 Para quem deseja cabelos soltinhos, leves e hidratados.",
+    "preco": 1595,
+    "foto": "AgACAgUAAxkBAAIFemhaamAqmeIWO8RcKnH6cHGhQTIQAAI7xzEbgSnQVpzXUplVErrNAQADAgADeQADNgQ"
+  },
+  "31": {
+    "nome": "Dr.Honey White Bee - Hair Milk",
+    "descricao": "💡 Finalizador em creme sem enxágue\nTextura leve que hidrata, protege contra agressões externas e controla o frizz. Com NMN, lipossomos e white honey.\n\n✨ Pode ser usado em cabelo úmido ou seco.",
+    "preco": 1595,
+    "foto": "AgACAgUAAxkBAAIFhGhaawmmUmlnKG1SMspWplLR91TMAAI8xzEbgSnQVjtb2LuKc-ySAQADAgADeQADNgQ"
+  },
+  "32": {
+    "nome": "DR.Honey White Bee - Hair Oil",
+    "descricao": "💧 Óleo finalizador leve com alto poder de hidratação.\nProtege contra calor e danos, devolve o brilho e o toque sedoso com mel branco, NMN e ativos botânicos.\n\n🌬️ Não pesa, ideal para uso diário!",
+    "preco": 1595,
+    "foto": "AgACAgUAAxkBAAIFjmhaa2OjpC101C2jX677-Qrd9mz1AAJAxzEbgSnQVgqwgKtcvSmMAQADAgADeQADNgQ"
+  },
+  "33": {
+    "nome": "Dr.Honey x VT – Moist Repair Hair Oil",
+    "descricao": "🧴 Óleo finalizador de edição limitada\nCom 30% de NMN, 50% de exossomos e 20% de mel preto, esse óleo foi desenvolvido para nutrir, proteger e dar brilho imediato sem pesar nos fios.\n\n💡 Textura leve, toque sedoso e proteção térmica.\n\n🌿 Fragrância herbal com toque de CICA calmante.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIFmGhabPwQ7C3485Pw_g2rAAHPCwjLXwACRMcxG4Ep0FYnd95K6-RFMQEAAwIAA3kAAzYE"
+  },
+  "34": {
+    "nome": "Kit Dr.Honey x VT – Edição Limitada",
+    "descricao": "• 🧴 Shampoo Moist Repair \n• 💧 Tratamento Moist Repair \n• 🧖‍♀️ Máscara facial hidratante CICA (2 etapas)\n\n🔬 Fórmulas com:\n• 50% de exossomos\n• 30% de NMN\n• 20% de mel preto\n\n🌱 Repara, fortalece, acalma o couro cabeludo e restaura a hidratação dos fios com toque profissional.",
+    "preco": 2200,
+    "foto": "AgACAgUAAxkBAAIFomhabdSucMQewASV7I9FaKOQF5bxAAJHxzEbgSnQVrvu73WUJvtIAQADAgADeQADNgQ"
+  },
+  "35": {
+    "nome": "Tsubaki Premium EX Repair Mask – Máscara de Tratamento Intensivo",
+    "descricao": "✨ Uma das máscaras capilares mais amadas do Japão!\nCom tecnologia de penetração instantânea, a Tsubaki Premium EX proporciona hidratação profunda e reparação intensa sem precisar esperar — sim, age em apenas 0 segundos!\n\n💛 Contém óleo de camélia, geléia real e outros ingredientes luxuosos que deixam os fios:\n✔️ Super macios\n✔️ Com brilho espelhado\n✔️ Sem frizz\n✔️ Com aspecto saudável desde a primeira aplicação!\n\n✨Ideal para quem tem cabelos danificados por química, secador ou sol.",
+    "preco": 1298,
+    "foto": "AgACAgUAAxkBAAIFv2hcmVcJBmtcSLSxpy-FWWxyiqvFAALC0DEbQ-_oVhUAAaGfiMp0VwEAAwIAA3kAAzYE"
+  },
+  "36": {
+    "nome": "Fino Premium Touch – Máscara Capilar Intensiva",
+    "descricao": "A queridinha do Japão quando o assunto é hidratação poderosa!\nIndicada para cabelos danificados por química, tintura ou calor, a Fino Premium repara até os danos mais profundos e devolve a maciez, brilho e vida aos fios.\n\n💡 Com 7 tipos de ingredientes reparadores, ela:\n✔️ Hidrata profundamente\n✔️ Reduz o frizz\n✔️ Restaura a elasticidade dos fios\n✔️ Deixa o cabelo super sedoso e fácil de pentear\n\n🧴 Textura cremosa e cheirosa, fácil de aplicar no banho.\nUse de 1 a 2 vezes por semana e sinta a diferença logo nas primeiras aplicações!",
+    "preco": 768,
+    "foto": "AgACAgUAAxkBAAIFyWhcmjwjvRQgD_wLplhxZPNTCwTKAALI0DEbQ-_oVqRmM71gUoj5AQADAgADeQADNgQ"
+  },
+  "37": {
+    "nome": "Tsubaki Premium Treatment Water – Hair Water",
+    "descricao": "Um spray capilar leve e hidratante que trata os fios danificados ao longo do dia.\nCom óleo de camélia e ingredientes reparadores, penetra profundamente nos fios e recupera o brilho e a maciez sem pesar.\n\n✔️ Ideal para aplicar antes do secador ou como finalizador\n✔️ Ajuda a controlar o frizz e manter os fios alinhados\n✔️ Aroma delicado e embalagem prática com spray",
+    "preco": 877,
+    "foto": "AgACAgUAAxkBAAIF02hcm30yevEL6IKNYwwFw2aMV3QSAALM0DEbQ-_oVpoE54HkfVyFAQADAgADeQADNgQ"
+  },
+  "38": {
+    "nome": "ORBIS Essence in Hair Milk",
+    "descricao": "Leite capilar sem enxágue com textura leve que hidrata, repara e protege os fios.\nPerfeito para quem quer cabelo macio, sedoso e sem frizz durante o dia todo.\n\n✔️ Restaura a elasticidade e brilho natural\n✔️ Pode ser usado nos fios secos ou úmidos\n✔️ Super indicado para cabelos danificados ou ressecados",
+    "preco": 1320,
+    "foto": "AgACAgUAAxkBAAIF3Whcm-5ua5g-qZePpnQZes30VhObAALN0DEbQ-_oVrLiC4g3_MMDAQADAgADeQADNgQ"
+  },
+  "39": {
+    "nome": "ORBIS Treatment Hair Water",
+    "descricao": "Spray hidratante e revitalizante para os cabelos, ideal para uso diário.\nPromove maciez imediata e facilita o penteado — ótimo para dias corridos ou como reforço entre lavagens.\n\n✔️ Deixa os fios leves e soltos\n✔️ Reduz o frizz e melhora a textura dos fios\n✔️ Embalagem prática com borrifador",
+    "preco": 1320,
+    "foto": "AgACAgUAAxkBAAIF52hcnE4KVD0Be-nPnnWcmDlic3VdAALO0DEbQ-_oVsqeEHYN9GWDAQADAgADeQADNgQ"
+  },
+  "40": {
+    "nome": "ORBIS Essence in Hair Mask",
+    "descricao": "Máscara de tratamento profundo para cabelos danificados.\nRica em ingredientes nutritivos que restauram a saúde dos fios da raiz às pontas.\n\n✔️ Hidratação intensa em minutos\n✔️ Fortalece e suaviza os fios\n✔️ Ideal para uso semanal",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIF8WhcnK9yuxKHBvNRqiSRgzdPW84TAALR0DEbQ-_oVj8-s5cquClcAQADAgADeQADNgQ"
+  },
+  "41": {
+    "nome": "Perfect Serum Shampoo",
+    "descricao": "Limpa sem ressecar e ajuda a reparar os fios danificados.",
+    "preco": 1210,
+    "foto": "AgACAgUAAxkBAAIF-2hcovruGh9wMk3MeVkIAAGaaM4pEQAC1tAxG0Pv6FYooP5ELhPYBwEAAwIAA3kAAzYE"
+  },
+  "42": {
+    "nome": "Perfect Serum Condicionador",
+    "descricao": "Condicionador nutritivo com 7 óleos vegetais para cabelos mais macios e brilhosos.",
+    "preco": 1210,
+    "foto": "AgACAgUAAxkBAAIGBWhco3w_fNfEP1WNgPVIpVuNij7GAALX0DEbQ-_oVjZTWTBoGGgpAQADAgADeQADNgQ"
+  },
+  "43": {
+    "nome": "Perfect Serum Original",
+    "descricao": "O mais vendido da Coreia! Restaura, hidrata e dá brilho sem pesar.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIGD2hcpL95v3_RDxVq_EpXQ16FeNDgAALY0DEbQ-_oVrGFU_2jiXULAQADAgADeQADNgQ"
+  },
+  "44": {
+    "nome": "Perfect Serum Styling",
+    "descricao": "Protege do calor e fixa o penteado com brilho e leveza.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIGGWhcpRuRzZlLSuq2AAH_hNR09VlQGAAC2dAxG0Pv6FbNN5nhsZd7HQEAAwIAA3kAAzYE"
+  },
+  "45": {
+    "nome": "Perfect Serum Super Rich",
+    "descricao": "Tratamento intensivo para cabelos muito danificados por química.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIGI2hcpVeHV64Jh6wjHuyiO6Iwze0LAALa0DEbQ-_oVqJ_Y5Nr8uFeAQADAgADeQADNgQ"
+  },
+  "46": {
+    "nome": "Perfect Serum Watery",
+    "descricao": "Textura leve, ideal para fios finos ou oleosos. Hidratação sem pesar!",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIGLWhcpa1JniDaj7cTDuv6SmhOnyr_AALc0DEbQ-_oVq6uFrx0P7O7AQADAgADeQADNgQ"
+  },
+  "47": {
+    "nome": "Perfect Serum Mist",
+    "descricao": "Spray hidratante com fragrância, perfeito para aplicar a qualquer hora.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIGN2hcpgKxA5kR9oVcorPQ_Rv5AAHatgAC3dAxG0Pv6FbVA05qIxOdbgEAAwIAA3kAAzYE"
+  },
+  "48": {
+    "nome": "Perfect Serum Base Up Essence",
+    "descricao": "Essência pré-modelagem que hidrata e ajuda a manter o cabelo alinhado.",
+    "preco": 1540,
+    "foto": "AgACAgUAAxkBAAIGQWhcpluRRzzmWRiDN8w7XTk-pZqHAALe0DEbQ-_oVsQ24FVtzCxvAQADAgADeQADNgQ"
+  },
+  "49": {
+    "nome": "Perfect Serum Treatment",
+    "descricao": "Tratamento nutritivo com 7 óleos vegetais para recuperar fios danificados.",
+    "preco": 1430,
+    "foto": "AgACAgUAAxkBAAIGS2hcptJuNesgHYAQRmDmJF1dlbZnAALf0DEbQ-_oVnq4TRKQ7SlPAQADAgADeQADNgQ"
+  },
+  "50": {
+    "nome": "Kerasys Perfume Shampoo – Charmant Musk",
+    "descricao": "Shampoo com fragrância floral musk elegante e duradoura. Limpa sem ressecar!",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIGVWhcp9XLoD5UOlfMJdznymNvsyQdAALg0DEbQ-_oVjFg4FQqeJbYAQADAgADeQADNgQ"
+  },
+  "51": {
+    "nome": "Kerasys Perfume Condicionador– Charmant Musk",
+    "descricao": "Condicionador perfumado que hidrata e deixa os fios com toque sedoso.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIGX2hcqCqYSLECYgjHIk7aNSlxiHCBAALh0DEbQ-_oVg9S2MMu1YufAQADAgADeQADNgQ"
+  },
+  "52": {
+    "nome": "Kerasys Perfume Shampoo – Elegance Amber",
+    "descricao": "Shampoo com perfume floral sofisticado e brilho intenso nos fios.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIGaWhcqHEPRTBhQPtJ07sP7vSlRmVdAALi0DEbQ-_oVom7VQQMJEF9AQADAgADeQADNgQ"
+  },
+  "53": {
+    "nome": "Kerasys Perfume Condicionador– Elegance Amber",
+    "descricao": "Condicionador que repara e perfuma os fios com um aroma floral marcante.",
+    "preco": 1100,
+    "foto": "AgACAgUAAxkBAAIGc2hcqMcAAbbU4rZT4XYJNQRFoJEAAX8AAuPQMRtD7-hW4Alg90WkaLYBAAMCAAN5AAM2BA"
+  },
+  "54": {
+    "nome": "Kerasys Devil’s Perfumed Shampoo – Gorgeous Musk",
+    "descricao": "Perfume marcante e luxuoso com notas de musk floral. Cabelos limpos, brilhantes e super cheirosos!",
+    "preco": 1680,
+    "foto": "AgACAgUAAxkBAAIGfWhcqY8b6TOoCJBeUIe24Zr4AW4hAALl0DEbQ-_oVrskA8ta_UaqAQADAgADeQADNgQ"
+  },
+  "55": {
+    "nome": "Kerasys Devil’s Perfumed Condicionador – Gorgeous Musk",
+    "descricao": "Condicionador com fragrância viciante e hidratação profunda.",
+    "preco": 1680,
+    "foto": "AgACAgUAAxkBAAIGh2hcqefUSMnn8q8biRGEJ9mTS8hUAALn0DEbQ-_oVuatiDk1TpXEAQADAgADeQADNgQ"
+  },
+  "56": {
+    "nome": "Kerasys Devil’s Perfumed Shampoo – Midnight Fantasy",
+    "descricao": "Notas florais doces e envolventes para quem ama cabelo perfumado o dia todo!",
+    "preco": 1680,
+    "foto": "AgACAgUAAxkBAAIGkWhcqihhcratyeGkTK57350KEctsAALp0DEbQ-_oVkdZv2-d_rpQAQADAgADeQADNgQ"
+  },
+  "57": {
+    "nome": "Kerasys Devil’s Perfumed Condicionador– Midnight Fantasy",
+    "descricao": "Deixa o cabelo super macio, hidratado e com perfume irresistível.",
+    "preco": 1680,
+    "foto": "AgACAgUAAxkBAAIGm2hcqnKdgB1IYfNGZkwlptdUuHcSAALq0DEbQ-_oVuLtYClnO_P2AQADAgADeQADNgQ"
+  },
+  "58": {
+    "nome": "Kundal Shampoo – Honey & Macadamia (Ylang Ylang)",
+    "descricao": "Shampoo hidratante com mel e macadâmia. Limpa sem ressecar e tem aroma floral suave.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIGpWhcqtmvB4QqljPROA__qd6casghAALr0DEbQ-_oVkUoT4XDTVEPAQADAgADeQADNgQ"
+  },
+  "59": {
+    "nome": "Kundal Condicionador– Honey & Macadamia (Ylang Ylang)",
+    "descricao": "Tratamento com proteínas e óleos naturais para fios mais fortes e sedosos.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIGr2hcqzSWPGOabW_czbaX1Aoi6khVAALs0DEbQ-_oVnLtHjlVtgktAQADAgADeQADNgQ"
+  },
+  "60": {
+    "nome": "Honeyque Deep Repair Shampoo",
+    "descricao": "Shampoo com mel + proteína que fortalece e hidrata os fios desde o couro cabeludo.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIGuWhcrDZxUJvqOvtSVtzuKnJ7RWPQAALu0DEbQ-_oVlrGd-RpgpmXAQADAgADeQADNgQ"
+  },
+  "61": {
+    "nome": "Honeyque Deep Repair Treatment",
+    "descricao": "Tratamento que repara pontas secas e controla o frizz com nutrição intensa.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIGw2hcrG8dAY6WXfOEf1HLn4GISCd5AALv0DEbQ-_oVqrmpEPhhfixAQADAgADeQADNgQ"
+  },
+  "62": {
+    "nome": "Honeyque Bubble Shampoo",
+    "descricao": "Shampoo espumante com mel + proteína para limpeza profunda do couro cabeludo.",
+    "preco": 1650,
+    "foto": "AgACAgUAAxkBAAIGzWhcrK2UX8dmvfSHEreSmjYzS2QSAALx0DEbQ-_oVj20cb2jXXE5AQADAgADeQADNgQ"
+  },
+  "63": {
+    "nome": "Ahalo Honey Shampoo – Manuka Honey",
+    "descricao": "Shampoo com 84% de essência hidratante e aroma suave de mel.",
+    "preco": 1045,
+    "foto": "AgACAgUAAxkBAAIG12hcrP9RGIGafzIzmEUnNL-Ne58UAALy0DEbQ-_oVr5WVRMbK2_6AQADAgADeQADNgQ"
+  },
+  "64": {
+    "nome": "Ahalo Honey Treatment – Manuka Honey",
+    "descricao": "Tratamento com mel orgânico para hidratação e brilho profundo dos fios.",
+    "preco": 1045,
+    "foto": "AgACAgUAAxkBAAIG4WhcrTWmGQmjY6eFzjehfs5ZDaZYAAL00DEbQ-_oVmBK1qytcasZAQADAgADeQADNgQ"
+  },
+  "65": {
+    "nome": "&Honey Matomake Stick Melty – Super Hold",
+    "descricao": "Finalizador em bastão que doma os fios rebeldes e frizz com fixação firme e aroma floral de mel.",
+    "preco": 1078,
+    "foto": "AgACAgUAAxkBAAIG62hcrfk04zCexpwbwDuCt4UqGgPzAAL20DEbQ-_oVoAfxzQJJzXcAQADAgADeQADNgQ"
+  },
+  "66": {
+    "nome": "&Honey Matomake Stick Kinmokusei – Floral Mel",
+    "descricao": "Fixação natural com perfume de kinmokusei e mel. Ideal para arrumar franja e baby hair.",
+    "preco": 1078,
+    "foto": "AgACAgUAAxkBAAIG9Whcrk-Let1h_SUOS3jyw-2GAuKJAAL30DEbQ-_oVpLr1qidq4uwAQADAgADeQADNgQ"
+  },
+  "67": {
+    "nome": "&Honey Matomake Stick Step 4.0 – Fixação Média",
+    "descricao": "Fios no lugar com aparência natural! Perfeito para o dia a dia.",
+    "preco": 1078,
+    "foto": "AgACAgUAAxkBAAIG_2hcrpnRp4pu6igAAZekX7sZHssyUQAC-NAxG0Pv6FbGOeFUKFogyQEAAwIAA3kAAzYE"
+  },
+  "68": {
+    "nome": "&Honey Matomake Stick Miracle Hold – Ultra Fixação",
+    "descricao": "O mais potente da linha! Alta durabilidade e fixação mesmo nos fios mais rebeldes.",
+    "preco": 1078,
+    "foto": "AgACAgUAAxkBAAIHCWhcrtETMMlL8l1hhff8hlgdGg6UAAL50DEbQ-_oVnVvtbED-kePAQADAgADeQADNgQ"
   }
 }
