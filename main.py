@@ -538,6 +538,7 @@ async def main():
     app.run_polling()
 
 
-# Execução
 if __name__ == "__main__":
-    main()
+    import asyncio
+    asyncio.run(main())
+
