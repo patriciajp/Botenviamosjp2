@@ -535,9 +535,9 @@ async def main():
     app.add_handler(
         CallbackQueryHandler(adicionar_ao_carrinho, pattern="^add_"))
 
-    await app.run_polling()
+    app.run_polling()
 
 
 # Execução
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
