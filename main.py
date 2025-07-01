@@ -1,15 +1,12 @@
 import os
 import json
 import asyncio
-from flask import Flask
-from threading import Thread
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from telegram.ext import (ApplicationBuilder, CommandHandler,
                           CallbackQueryHandler, MessageHandler,
                           ConversationHandler, ContextTypes, filters)
-import nest_asyncio
 
-# Variáveis de ambiente
+
 # ✅ Variáveis de ambiente com fallback
 TOKEN = os.environ.get("TOKEN",
                        "7333842067:AAEynLOdFTnJeMRw-fhYhfU-UT0PFXoTduE")
@@ -186,14 +183,13 @@ async def receber_foto(update: Update, context: ContextTypes.DEFAULT_TYPE):
         [[InlineKeyboardButton("🛒 Comprar", url=link)]])
 
     await context.bot.send_photo(chat_id=GROUP_USERNAME,
-        photo=foto,
-        caption=(f"*{nome}*\n\n"
-                 f"_{descricao}_\n\n"
-                 f"🇯🇵¥{(preco):,}".replace(",", ".") +
-                 f" | 🇧🇷R${preco_real:.2f}"),
-        parse_mode="Markdown",
-        reply_markup=botao
-    )
+                                 photo=foto,
+                                 caption=(f"*{nome}*\n\n"
+                                          f"_{descricao}_\n\n"
+                                          f"🇯🇵¥{(preco):,}".replace(",", ".") +
+                                          f" | 🇧🇷R${preco_real:.2f}"),
+                                 parse_mode="Markdown",
+                                 reply_markup=botao)
 
     await update.message.reply_text(
         "✅ Produto cadastrado e enviado para o grupo!")
@@ -498,44 +494,22 @@ carrinho_conversa = ConversationHandler(
     entry_points=[
         CallbackQueryHandler(
             carrinho_callback,
-            pattern=
-            "^mais:|menos:|cancelar:.+|^finalizar_compra$|^cancelar_pedido$")
+    pattern="^mais:|menos:|cancelar:.+|^finalizar_compra$|^cancelar_pedido$")
     ],
     states={
-        1: [
-            MessageHandler(filters.TEXT & ~filters.COMMAND,
-                           receber_nome_cliente)
-        ],
-        2: [
-            MessageHandler(filters.TEXT & ~filters.COMMAND,
-                           receber_suite_cliente)
-        ],
-        3: [
-            MessageHandler(filters.TEXT & ~filters.COMMAND,
-                           receber_telefone_cliente)
-        ],
-        4: [
-            MessageHandler(filters.TEXT & ~filters.COMMAND,
-                           receber_email_cliente)
-        ],
+        1: [MessageHandler(filters.TEXT & ~filters.COMMAND,receber_nome_cliente)],
+        2: [MessageHandler(filters.TEXT & ~filters.COMMAND,
+receber_suite_cliente)],
+        3: [MessageHandler(filters.TEXT & ~filters.COMMAND,
+receber_telefone_cliente)],
+        4: [MessageHandler(filters.TEXT & ~filters.COMMAND,
+receber_email_cliente)],
         5: [MessageHandler(filters.PHOTO, receber_comprovante)],
     },
     fallbacks=[CommandHandler("cancelar", cancelar)],
+
+    per_message=True
 )
-
-# Flask para Render
-app_flask = Flask(__name__)
-
-
-@app_flask.route('/')
-def home():
-    return "✅ Bot do Enviamos JP está online!"
-
-
-def manter_online():
-    Thread(target=lambda: app_flask.run(
-        host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))).start()
-
 
 # Conversa para cadastrar produto
 conv_handler = ConversationHandler(
@@ -566,6 +540,4 @@ async def main():
 
 # Execução
 if __name__ == "__main__":
-    import nest_asyncio
-    nest_asyncio.apply()
     asyncio.run(main())
