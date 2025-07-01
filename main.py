@@ -1,6 +1,7 @@
 import os
 import json
 import asyncio
+import telegram
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from telegram.ext import (ApplicationBuilder, CommandHandler,
                           CallbackQueryHandler, MessageHandler,
@@ -535,10 +536,10 @@ async def main():
     app.add_handler(
         CallbackQueryHandler(adicionar_ao_carrinho, pattern="^add_"))
 
-    app.run_polling()
+    print("🤖 Bot iniciado com sucesso!")
+    await app.run_polling()
 
 
 if __name__ == "__main__":
-    import asyncio
     asyncio.run(main())
 
