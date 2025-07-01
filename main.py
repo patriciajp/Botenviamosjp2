@@ -9,14 +9,11 @@ from telegram.ext import (ApplicationBuilder, CommandHandler,
 
 
 # ✅ Variáveis de ambiente com fallback
-TOKEN = os.environ.get("TOKEN",
-                       "7333842067:AAEynLOdFTnJeMRw-fhYhfU-UT0PFXoTduE")
-CHAVE_PIX = os.environ.get("CHAVE_PIX", "pattywatanabe@outlook.com")
-URL_WHATSAPP = os.environ.get("URL_WHATSAPP", "https://wa.me/818030734889")
-URL_FORMULARIO = os.environ.get("URL_FORMULARIO",
-                                "https://forms.gle/SBV9vUrenLN7VELi6")
-VALOR_IENE_REAL = float(os.environ.get("VALOR_IENE_REAL",
-                                       0.039))  # ¥1 = R$0,039
+TOKEN = os.environ.get("TOKEN","7333842067:AAEynLOdFTnJeMRw-fhYhfU-UT0PFXoTduE")
+CHAVE_PIX=os.environ.get("CHAVE_PIX","pattywatanabe@outlook.com")
+URL_WHATSAPP=os.environ.get("URL_WHATSAPP","https://wa.me/818030734889")
+URL_FORMULARIO=os.environ.get("URL_FORMULARIO","https://forms.gle/SBV9vUrenLN7VELi6")
+VALOR_IENE_REAL =float(os.environ.get("VALOR_IENE_REAL",0.039))  # ¥1 = R$0,039
 TAXA_SERVICO = float(os.environ.get("TAXA_SERVICO", 0.20))  #20% de taxa
 TAXA_PIX = float(os.environ.get("TAXA_PIX", 0.0099))  # 0.99% de taxa do Pix
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Enviamosjpbot")
@@ -509,7 +506,7 @@ receber_email_cliente)],
     },
     fallbacks=[CommandHandler("cancelar", cancelar)],
 
-    per_message=True
+    per_message=False
 )
 
 # Conversa para cadastrar produto
@@ -541,5 +538,6 @@ async def main():
 
 
 if __name__ == "__main__":
+    import asyncio
     asyncio.run(main())
 
